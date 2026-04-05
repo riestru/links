@@ -19,6 +19,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202
 ss://YWVzLTI1Ni1nY206SEVvT1VhS3BoVxR
 ss://YWVzLTI1Ni1nY206SjRjWHVQYUltdVpPUmx5dmtzbzA2QjBEblRRWmNYVGZiQmVqaEk5dm1kUT0@130.49.150.52:50675?type=tcp#Hancik
 ss://YWVzLTI1Ni1nY206eUJoYXFhcGo0Q2Z4Y24xTXE1RWFSM0REbGlsOUZoQlZqMW01YnJZeTFsbz0=@159.194.196.197:18511#%F0%9F%87%B7%F0%9F%87%BA%40VPN_KeysTM
+ss://df0680ca-e43c-498d-ed8h9-fe
 ss://e173373a-cbf4-4b5e-8324-dc399c7a0559@154.194.12.217:2053/?type=ws&encryption=none&flow=&host=kk.shdetai.cn&path=%2F&security=tls&sni=kk.shdetai.cn&allowInsecure=1&packetEncoding=xudp#%40Koshitsu
 trojan://M7v%25w11Se*@qfdfsg.wsone.icu:443/?type=tcp&security=tls&sni=qfdfsg.wsone.icu&allowInsecure=1&fp=chrome#%F0%9F%87%AE%F0%9F%87%A9ID_%40Koshitsu
+vless://df0680ca-e43c-498d-ed8h9-fe
 vless://e173373a-cbf4-4b5e-8324-dc399c7a0559@154.194.12.217:2053/?type=ws&encryption=none&flow=&host=kk.shdetai.cn&path=%2F&security=tls&sni=kk.shdetai.cn&allowInsecure=1&packetEncoding=xudp#%40Koshitsu
