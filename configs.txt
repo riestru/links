@@ -1,5 +1,6 @@
 hy2://29f21953-b08b-4fa6-a799-01e2bd35c507@156.229.164.1:55000/?insecure=1&sni=www.bing.com#%3E%F0%9F%87%BA%F0%9F%87%B8US%7C%40Koshitsu
 hy2://7e8e0c7e-afdf-4b21-95dd-1332d63b546b@45.89.109.129:443/?mport=50000-53000&insecure=1&sni=music.apple.com#%F0%9F%87%AF%F0%9F%87%B5%40Koshitsu%20%3A%20HY%202
+hy2://98d7ef83-37d2-48b0-b01e-df6a8d36fefc@103.197.71.97:50000/?insecure=1&sni=www.hoyoverse.com#%3E%F0%9F%87%AD%F0%9F%87%B0HK%7C%40Koshitsu
 hy2://d165ebdc-f93c-42a1-85fd-6393914b0d0f@207.174.28.26:51372/?insecure=1&sni=apple.com&obfs=salamander&obfs-password=nDneuR2isso8k79O#%40Koshitsu
 ss://15b84012-d261-4b4c-807a-061bb4a901fd@116.80.58.239:39975?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1hGJKfqrOliCY&security=reality&sid=&sni=cloudcircus.jp&type=#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5%20JP-608
 ss://1fb29858-2fbe-4863-9dcb-bf6b21382667@90.156.209.66:443?security=reality&encryption=none&pbk=rDPZZOBMmBbmNKPEewzp9Uu6zkGrP7XOVpnRzetXDc&headerType=none&fp=randomized&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=goodcardboard.shop#Freedom+%F0%9F%87%B7%F0%9F%87%BA
