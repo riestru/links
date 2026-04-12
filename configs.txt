@@ -1,4 +1,6 @@
 hy2://98d7ef83-37d2-48b0-b01e-df6a8d36fefc@103.197.71.97:50000/?insecure=1&sni=www.hoyoverse.com#%3E%F0%9F%87%AD%F0%9F%87%B0HK%7C%40Koshitsu
+hy2://c006f502-9ae8-462b-9d48-3680f9dde45e@45.196.233.232:9999/?insecure=1#%40Koshitsu
+hy2://c006f502-9ae8-462b-9d48-3680f9dde45e@45.196.233.232:9999/?insecure=1#%F0%9F%87%AF%F0%9F%87%B5%40Koshitsu
 hy2://strong-secret-pass-777@45.140.167.209:444/?insecure=1&sni=www.microsoft.com&obfs=salamander&obfs-password=crymear1ver2026#%40Koshitsu
 ss://00c5261b-1ec2-4cac-b795-7324facd4dd2@157.22.241.140:443?alpn=http%2F1.1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=ru3.whoshere.site&type=#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5BCIDR%5D
 ss://00c5261b-1ec2-4cac-b795-7324facd4dd2@89.221.203.234:443?alpn=http%2F1.1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=ru4.whoshere.site&type=#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B*CIDR%5D
