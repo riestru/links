@@ -45,6 +45,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFNUxUcjg4cExzYThGNWxLMGd1NTNB@94.241.143.102
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFeFV6SFozQXFNSVZSbXo5cjZtY2d5@66.154.114.231:19353#%F0%9F%87%BA%F0%9F%87%B8%20%40communityservers%20
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGNXFBRGJsUzIzRTdqNVZ2MkdDTlhn@193.42.11.211:155#%F0%9F%87%A9%F0%9F%87%AA+%F0%9D%99%84%F0%9D%99%A8%F0%9D%99%96+%F0%9D%99%8E%F0%9D%99%9A%F0%9D%99%A7%F0%9D%99%AB%F0%9D%99%9A%F0%9D%99%A7%F0%9D%99%A8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKQ09WdDhwY3YzS0Q2T3FGNHhJWEpy@150.95.85.12:22867#%F0%9F%87%AF%F0%9F%87%B5%40freenodeconnect
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRVG1MVmlVNFZFbXV3Yk94VXc0SVhk@107.172.250.161:59556#%F0%9F%87%BA%F0%9F%87%B8%20US%20TG%3A%20%40Koshitsu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSMGtSZzBjTlFaQ2ZrM0hyZW1vdDY0@150.95.85.12:22867#%F0%9F%87%AF%F0%9F%87%B5%20Japan
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSWmlySHpTcXl5YjM3RERJaVFlRExaVEpmdDVaUUdtVUN3eUEzd201YXRoNGo5WTM@124.217.247.205:51348#%3E%3E@oneclickvpnkeys::MY
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSWmlySHpTcXl5YjM3RERJaVFlRExaVEpmdDVaUUdtVUN3eUEzd201YXRoNGo5WTM@124.217.247.205:51348#tkm
@@ -76,7 +77,10 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.185.37:989#%E2%9A%A1%20%40com
 ss://a96f18f0-4a56-4c4f-be6e-434835f5523c@158.160.71.158:443?security=reality&encryption=none&pbk=0j-QVy2pFdCuKAkppUYr0diUSjjKse9CtM5AMhHzqD4&headerType=&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=8ac77e6bab737698#%F0%9F%87%AA%F0%9F%87%BA%20%D0%A0%D0%A4%20-%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%2315
 ss://a96f18f0-4a56-4c4f-be6e-434835f5523c@158.160.71.158:443?security=reality&encryption=none&pbk=0j-QVy2pFdCuKAkppUYr0diUSjjKse9CtM5AMhHzqD4&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=8ac77e6bab737698#%F0%9F%87%AA%F0%9F%87%BA%20%D0%A0%D0%A4%20-%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%2313
 ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg@198.98.51.17:2083#%F0%9F%87%AF%F0%9F%87%B5%20JP%20TG%3A%20%40Koshitsu
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg@86.104.72.16:443#%20%F0%9F%87%AF%F0%9F%87%B5%20JP%201TG%3A%40Koshitsu
+ss://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.233:180/?type=tcp&encryption=auto#%F0%9F%87%BA%F0%9F%87%B8%20US%3A%20TG%3A%20%40Koshitsu
 ss://e74c2be257e5446aa3b5f0619613f599@51.250.16.143:443?security=reality&encryption=none&alpn=h2&echfq=none&pbk=in3ZHiBaTun092XhEcoiBrcKykk0maJxqAh1F37DV0&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=browser.yandex.com&sid=aabbccdd#%F0%9F%87%B9%F0%9F%87%B7+Turkey+%7C
+ss://f5721b9c-4709-4ddb-bab1-0912f5e28cfb@209.33.172.190:10016/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.nvidia.com&fp=chrome&security=reality&pbk=MIRxSo6IdlSjbouoiOJcaz43hdvesPL63tTV30O3uHM&sid=dd#JP-%40Koshitsu
 trojan://3c90aa35-b545-4655-9a4f-f9cc70193ad8@us1.8989111.xyz:443/?type=tcp&security=tls&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%40Koshitsu
 trojan://8b1175b9-c291-446a-b3c0-1ac558c6d3b4@jp.co2.vn:443/?type=tcp&security=tls&sni=www.linemo.jp&allowInsecure=1#%20%F0%9F%87%AF%F0%9F%87%B5%20JP%20TG%3A%20%40Koshitsu
 vless://0ea7702d-24cb-4598-a60b-2640479e8465@84.201.175.18:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&host=cdn.burncommunity.ru&fp=chrome&type=ws&sni=cdn.burncommunity.ru#%F0%9F%87%AA%F0%9F%87%BA%20%D0%A0%D0%A4%20-%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%28WS%29%20%2324
@@ -104,6 +108,7 @@ vless://7efa42a2-85ac-4777-aebf-97aad6e6afb8@146.185.241.35:29737?security=reali
 vless://a96f18f0-4a56-4c4f-be6e-434835f5523c@158.160.71.158:443?security=reality&encryption=none&pbk=0j-QVy2pFdCuKAkppUYr0diUSjjKse9CtM5AMhHzqD4&headerType=&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=8ac77e6bab737698#%F0%9F%87%AA%F0%9F%87%BA%20%D0%A0%D0%A4%20-%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%2315
 vless://a96f18f0-4a56-4c4f-be6e-434835f5523c@158.160.71.158:443?security=reality&encryption=none&pbk=0j-QVy2pFdCuKAkppUYr0diUSjjKse9CtM5AMhHzqD4&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=8ac77e6bab737698#%F0%9F%87%AA%F0%9F%87%BA%20%D0%A0%D0%A4%20-%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%2313
 vless://e74c2be257e5446aa3b5f0619613f599@51.250.16.143:443?security=reality&encryption=none&alpn=h2&echfq=none&pbk=in3ZHiBaTun092XhEcoiBrcKykk0maJxqAh1F37DV0&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=browser.yandex.com&sid=aabbccdd#%F0%9F%87%B9%F0%9F%87%B7+Turkey+%7C
+vless://f5721b9c-4709-4ddb-bab1-0912f5e28cfb@209.33.172.190:10016/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.nvidia.com&fp=chrome&security=reality&pbk=MIRxSo6IdlSjbouoiOJcaz43hdvesPL63tTV30O3uHM&sid=dd#JP-%40Koshitsu
 vmess://7cd96dbe-ecec-4937-9e05-87ab70af2f30@vm51544542.dns8656815.com:7754/?type=tcp&encryption=auto#%F0%9F%87%AD%F0%9F%87%B0%20HK%20TG%3A%20%40Koshitsu
 vmess://8108a7dc-6162-4366-d492-23dcd3553e38@38.22.93.20:55165/?encryption=auto&type=tcp&headerType=http#%F0%9F%87%AD%F0%9F%87%B0%20HK%20%20TG%3A%20%40Koshitsu
 vmess://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.233:180/?type=tcp&encryption=auto#%F0%9F%87%BA%F0%9F%87%B8%20US%3A%20TG%3A%20%40Koshitsu
