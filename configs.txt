@@ -1,6 +1,7 @@
 ss://009e558d-3cf4-49d8-b5e4-82c9e14fe1a4@efan.dnsefan04881.com:7754/?type=tcp&encryption=auto#%F0%9F%87%AD%F0%9F%87%B0HK_%40Koshitsu
 ss://009e558d-3cf4-49d8-b5e4-82c9e14fe1a4@vm51544542.dns8656815.com:7754?encryption=auto&security=none&type=tcp#(%D1%87%D0%B5%D1%80%D0%B0)%F0%9F%87%AD%F0%9F%87%B0%20HK
 ss://0163dc9d-9665-49f0-fc26-927d30a035cb@38.49.45.33:10685/?type=tcp&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20US%20%40Koshitsu
+ss://0f015fef-1a0b-48b0-a0bf-454a9d06e95c@static.yximgs.com.e791.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cdn.download.7602.org&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20%3A%40Kositsu
 ss://11348c0f-b646-446a-bad7-b2b39c6de767@138.124.9.190:16558/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=gpuopen.com&fp=chrome&security=reality&pbk=vDKgmefC2JaSrrvQSsb7DU3KBeKUlXG1V0vgdjv_i4&sid=0a856e071790b1#2945%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20VLESS%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 ss://12a3c993-e2f1-4ebb-b622-d67e546f34e5@185.65.200.181:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.microsoft.com&fp=chrome&security=reality&pbk=joMQZiNZWpGdcKDBOyAJQMnvSfU54GYUqqPNwUtHAo&sid=a1b2c3d4#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23177
 ss://12a3c993-e2f1-4ebb-b622-d67e546f34e5@194.156.101.44:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=joMQZiNZWpGdcKDBOyAJQMnvSfU54GYUqqPNwUtHAo&security=reality&sid=a1b2c3d4&sni=www.microsoft.com&type=#%5B445ms%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20RU%20%F0%9F%87%B7%F0%9F%87%BA%20@vlesstrojan%5D
@@ -177,6 +178,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:80
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#@VPNSTURKMENISTAN
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#%F0%9F%87%B8%F0%9F%87%ACSG-103.36.91.32-4948
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@216.250.97.82:38388#%F0%9F%92%A5%F0%9F%87%B2%20%F0%9F%87%A6%20%F0%9F%87%BD%F0%9F%92%A5
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7%20KR%20%40Koshitsu
 ss://YWVzLTI1Ni1nY206MWE4NzAxN2QwYmY1N2YzNA@194.87.196.164:20129#ByGepard%20VPN%20🇷🇺%20Russia
 ss://YWVzLTI1Ni1nY206N2FlNGU2OGNmNzdmNjA4OQ@185.22.155.49:60129#%40Koshitsu
 ss://YWVzLTI1Ni1nY206NjNkN2MxNzUwNmQxZjQ4Yg@203.32.26.157:19801#%D1%87%D0%B5%D1%80%D0%B0-%F0%9F%91%BD
@@ -258,6 +260,7 @@ trojan://M7v%25w11Se*@amanm.wsone.icu:443/?type=tcp&security=tls#%F0%9F%92%A5%F0
 trojan://wVN6Y89zgluoY%2BeGD%3DnIeTeVJuzkbZ4Tv@81.29.149.166:11424?security=tls&headerType=&type=tcp&sni=osl4.table-firewall.click#3285%20%7C%20%F0%9F%87%B3%F0%9F%87%B4%20Norway%20%7C%20TROJAN%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 trojan://wVN6Y89zgluoY%2BeGD%3DnIeTeVJuzkbZ_4Tv@81.29.149.184:11424?security=tls&headerType=&type=tcp&sni=osl5.table-firewall.click#1036%20%7C%20%F0%9F%87%B3%F0%9F%87%B4%20Norway%20%7C%20TROJAN%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 vless://0163dc9d-9665-49f0-fc26-927d30a035cb@38.49.45.33:10685/?type=tcp&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20US%20%40Koshitsu
+vless://0f015fef-1a0b-48b0-a0bf-454a9d06e95c@static.yximgs.com.e791.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cdn.download.7602.org&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20%3A%40Kositsu
 vless://11348c0f-b646-446a-bad7-b2b39c6de767@138.124.9.190:16558/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=gpuopen.com&fp=chrome&security=reality&pbk=vDKgmefC2JaSrrvQSsb7DU3KBeKUlXG1V0vgdjv_i4&sid=0a856e071790b1#2945%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20VLESS%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 vless://12a3c993-e2f1-4ebb-b622-d67e546f34e5@185.65.200.181:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.microsoft.com&fp=chrome&security=reality&pbk=joMQZiNZWpGdcKDBOyAJQMnvSfU54GYUqqPNwUtHAo&sid=a1b2c3d4#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23177
 vless://12a3c993-e2f1-4ebb-b622-d67e546f34e5@194.156.101.44:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=joMQZiNZWpGdcKDBOyAJQMnvSfU54GYUqqPNwUtHAo&security=reality&sid=a1b2c3d4&sni=www.microsoft.com&type=#%5B445ms%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20RU%20%F0%9F%87%B7%F0%9F%87%BA%20@vlesstrojan%5D
