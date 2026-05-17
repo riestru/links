@@ -1,8 +1,5 @@
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206emhEU0RSTHlOcVF6L1JxVkJYeVk3NGRnYzhCWTFWT2hnNnhQQUVTTTJ5OD06ZkdPQmo4RnFDUWg0V1pibFg2MmZBeHc2QUNHa0VtMDJ1YTJvbU8wbDNWZz0=@37.252.22.65:36224#%F0%9F%87%B7%F0%9F%87%BA%40TkmVpnChannels
-ss://bm9uZTpodHRwczovL3QubWUvV2FuZ0
-ss://c180deb8-34ef-4c7a-9d56-fa2a54077ba5@81.163.20.116:8443?security=reality&encryption=none&pbk=n8pM011GkFhXrUZH3c9DrxwJpnuLhAtq22yfHcLW1nw&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=daa6d59cb68bc803#%5B360ms+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F+RU+%F0%9F%87%B7%F0%9F%87%BA+%40gepardvpn%5D
-ss://c180deb8-34ef-4c7a-9d56-fa2a54077ba5@81.163.20.116:8443?security=reality&encryption=none&pbk=n8pM011GkFhXrUZH3c9DrxwJpnuLhAtq22yfHcLW1nw&headerType=none&fp=chrome&spx=%2Fblog&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=daa6d59cb68bc803#%5B361ms+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F+RU+%F0%9F%87%B7%F0%9F%87%BA+%40gepard_vpn%5D
-ss://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.219.213.195:10032?security=none&encryption=none&type=raw#%5B232ms+SG+SG++%40gepardvpn%5D
-vless://c180deb8-34ef-4c7a-9d56-fa2a54077ba5@81.163.20.116:8443?security=reality&encryption=none&pbk=n8pM011GkFhXrUZH3c9DrxwJpnuLhAtq22yfHcLW1nw&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=daa6d59cb68bc803#%5B360ms+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F+RU+%F0%9F%87%B7%F0%9F%87%BA+%40gepardvpn%5D
-vless://c180deb8-34ef-4c7a-9d56-fa2a54077ba5@81.163.20.116:8443?security=reality&encryption=none&pbk=n8pM011GkFhXrUZH3c9DrxwJpnuLhAtq22yfHcLW1nw&headerType=none&fp=chrome&spx=%2Fblog&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=daa6d59cb68bc803#%5B361ms+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F+RU+%F0%9F%87%B7%F0%9F%87%BA+%40gepard_vpn%5D
-vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.219.213.195:10032?security=none&encryption=none&type=raw#%5B232ms+SG+SG++%40gepardvpn%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCYWY5eUNtWFVfZDNLS3Z4UU1VT1pB@4.225.143.153:2053#%F0%9F%87%B7%F0%9F%87%B
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWM2NfZzdHbHVKSjAzNWh5OGlhaU93@107.191.62.197:1080#ServersTm
+ss://YWVzLTI1Ni1jZmI6NTVmYThmZDMzND
+vless://YWVzLTI1Ni1jZmI6NTVmYThmZDMzND
