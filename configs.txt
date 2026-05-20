@@ -13,6 +13,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWb0ZlWWk1Um8zeXA1cU9pYlJQaDJr@77.246.100.93:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphSHJ1NEF2dmFZT3dUdDBTV0lFRTEy@5.175.185.134:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwOEU2MHBPeUQwX0JoRFZLdGhXY0dB@204.11.2.212:1080#%F0%9F%87%A9%F0%9F%87%AA+%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F+%40TkmVpnChannels
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyMGRTVkxwTDZnMW56anBIYzNCVW9ZS2p3S3c4Vjd3RHZEQlJpOVNkQUdLaFk5MlI@45.80.209.101:31348#luxembourg
+ss://YWVzLTI1Ni1jZmI6NTVmYThmZDMzND
 ss://d2f54466-0055-4a25-a3b3-b54a5107f980@www.visa.com.hk:443/?type=ws&encryption=none&flow=&host=do-blr1.862400.xyz&path=%2Fannouncement&security=tls&sni=do-blr1.862400.xyz&fp=random#%F0%9F%87%AE%F0%9F%87%B3%20%40Koshitsu
 ss://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.216.21.135:10026/?type=tcp&encryption=none#%E2%9D%96%F0%9D%95%BF%F0%9D%96%8D%F0%9D%96%8A%20%F0%9D%95%BD%F0%9D%96%8A%F0%9D%96%91%F0%9D%96%86%F0%9D%96%9D%20%F0%9D%95%BF%F0%9D%96%8A%F0%9D%96%86%F0%9D%96%92%20%F0%9F%87%AF%F0%9F%87%B5%20%40WRELAXTIME
 ss://eeb6823c-b926-4ea2-866a-5542edd26e59@liantong.19931101.xyz:443/?type=ws&encryption=none&flow=&host=xy430.albertabobbi.ndjp.net&path=%2F%3Fed%3D2560&security=tls&sni=xy430.albertabobbi.ndjp.net&fp=random#%40Koshitsu
@@ -22,6 +23,7 @@ vless://37ef2f4f-f250-4d52-bdc1-554fd56b7215@18.154.65.150:443?path=%2F%3Fed%3D2
 vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?path=%2Fstream%2Fupdates%2F130cdea4%2F019dee35-0199-e559-711f-8b34035018fda&security=tls&encryption=none&host=cdn.lovecrafty.link&fp=chrome&type=ws&sni=cdn.tracker.yandex.net#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%7C%20LTE%20%7C
 vless://87310b00-d956-432d-a4d7-ef241280ae6a@18.154.65.150:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=dal3hovgdp91b.cloudfront.net&fp=chrome&allowinsecure=1&type=ws&sni=127.0.0.1#%F0%9F%87%BA%F0%9F%87%B8USA
 vless://8879b4ce-412f-4b39-857d-e45928c2220c@104.21.40.66:443/?type=ws&encryption=none&host=h-24-c-2.7777112.xyz&path=%2FGyHA3S5bmYHtCgkIjRbGS&security=tls&sni=h-24-c-2.7777112.xyz&alpn=http%2F1.1&fp=chrome#%40Koshitsu
+vless://YWVzLTI1Ni1jZmI6NTVmYThmZDMzND
 vless://d2f54466-0055-4a25-a3b3-b54a5107f980@www.visa.com.hk:443/?type=ws&encryption=none&flow=&host=do-blr1.862400.xyz&path=%2Fannouncement&security=tls&sni=do-blr1.862400.xyz&fp=random#%F0%9F%87%AE%F0%9F%87%B3%20%40Koshitsu
 vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.216.21.135:10026/?type=tcp&encryption=none#%E2%9D%96%F0%9D%95%BF%F0%9D%96%8D%F0%9D%96%8A%20%F0%9D%95%BD%F0%9D%96%8A%F0%9D%96%91%F0%9D%96%86%F0%9D%96%9D%20%F0%9D%95%BF%F0%9D%96%8A%F0%9D%96%86%F0%9D%96%92%20%F0%9F%87%AF%F0%9F%87%B5%20%40WRELAXTIME
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@liantong.19931101.xyz:443/?type=ws&encryption=none&flow=&host=xy430.albertabobbi.ndjp.net&path=%2F%3Fed%3D2560&security=tls&sni=xy430.albertabobbi.ndjp.net&fp=random#%40Koshitsu
