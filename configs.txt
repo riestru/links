@@ -6,7 +6,6 @@ ss://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@38.38.250.50:443/?type=ws&encryption=n
 ss://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@43.160.207.175:443/?type=ws&encryption=none&host=ttssxdgvd494.lzjbaby.info&path=%2Fdetail%2Fproxyip%3Dkr.william.us.ci&security=tls&sni=ttssxdgvd494.lzjbaby.info&fp=chrome#SG%2015
 ss://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@64.186.234.108:443/?type=ws&encryption=none&host=ttssxdgvd494.lzjbaby.info&path=%2Falbum%2Fproxyip%3Dkr.william.us.ci&security=tls&sni=ttssxdgvd494.lzjbaby.info&fp=chrome#US%206
 ss://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@87.83.110.203:443/?type=ws&encryption=none&host=ttssxdgvd494.lzjbaby.info&path=%2Fquestion%2Fproxyip%3Dkr.william.us.ci&security=tls&sni=ttssxdgvd494.lzjbaby.info&fp=chrome#HK%2011
-ss://8361e3fc-479d-466f-9583-4971c2cf2d03@finporkzov.com:443/?type=tcp&flow=xtls-rprx-vision&sni=finporkzov.com&fp=edge&security=reality&pbk=_0N3gACBkKvGKTh0q5-dmt-XqSHB3xfEHSANRXu-U0I&sid=f00f58383241c807#%40Koshitsu
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TWpCak4yTmlOREpsTkRKbE5qQTNOZz09Ok5EVmhPVEJrTXpJdE1EaGlaQzAwWkE9PQ@sg01.jgpy.help:10025?plugin=%3B#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A101%20%5Bipv4%5D
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TkRnNE4yWmpNakUyT1dNM01XUmxOQT09Ok5EVmhPVEJrTXpJdE1EaGlaQzAwWkE9PQ@jp01.jgpy.help:10087?plugin=%3B#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC01%20%5Bipv4%5D
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TkRnNE4yWmpNakUyT1dNM01XUmxOQT09Ok5EVmhPVEJrTXpJdE1EaGlaQzAwWkE9PQ@jp03.jgpy.help:10081?plugin=%3B#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC03%20%5Bipv4%5D
