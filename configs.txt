@@ -67,6 +67,7 @@ ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI@222.113.18.214:1131
 ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI@47.250.212.59:2053#ShadowSocks%20%7C%20%40Koshitsu
 ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI@59.11.33.164:16923#ShadowSocks%20%7C%20%40Koshitsu
 ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI@59.31.102.62:25565#ShadowSocks%20%7C%20%40Koshitsu
+ss://c359d107-c1b1-4b71-811d-5040b898f2a7@fvpn.me:443/?type=ws&encryption=none&flow=&host=fvpn.me&path=%2Fws&security=tls&sni=fvpn.me#%F0%9F%87%B1%F0%9F%87%BB%20%40Koshitsu
 ss://d98e6ac5-e873-402a-bcce-78e2887c936b@170.205.37.59:443/?type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&fp=chrome&security=reality&pbk=zvRguC1cm7gKkQpNarOCaAUAvcSXUWH10-pUEfneYSI&sid=014c3d76dee82247#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20
 ss://ea484535-0170-4ec8-bb3c-a9dbaa7412d7@144.124.228.113:443?security=reality&encryption=none&pbk=odHeTqoDcoPA6jeZStmaFPqoFg0ZiWwOKREEB0X-ez4&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nl3.panel11.ru&sid=e069bfaf9ba2069c#30.04%F0%9F%87%B3%F0%9F%87%B1%D0%BD%D0%B4%D1%80%D0%BB
 ss://ea484535-0170-4ec8-bb3c-a9dbaa7412d7@89.124.82.95:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=nl4.panel11.ru&fp=firefox&security=reality&pbk=n4TFeuXAigmWJ9sXqnyicRkw3vcXy27ARfvhhsA61kI&sid=0bd0285f0c4f8f05#FULL%20%F0%9F%87%B3%F0%9F%87%B1%20%23052
