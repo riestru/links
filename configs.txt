@@ -51,6 +51,7 @@ ss://YWVzLTEyOC1nY206YWMxN2UyYzQtMmM5Mi00YWE2LThiYWYtMjcwNWE4NTQ5ZWM2@mn.qwer-cn
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.201.169.70:8314#%F0%9F%87%B0%F0%9F%87%B7%20%40%2CKoshitsu
 ss://YWVzLTI1Ni1nY206MzJjMGVhNmU4MjMzNDFhMg@46.29.163.30:30129#%F0%9F%87%BA%F0%9F%87%B8%20%40Koshitsu
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@103.106.229.69:9090#%40TURKMENVPNLAR%20%F0%9F%87%B8%F0%9F%87%AC
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@103.106.229.69:9090#@TKMTELECOM1
 ss://ac3b5bf2-8ffb-4276-86e4-10d6196187e3@5.223.67.129:8443?security=reality&encryption=none&pbk=kt-wshmPVd-J1dlU-tsXUoGag2-oFwYQ5UafScaAfzQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=apple.com#%5BSG
 ss://ac3b5bf2-8ffb-4276-86e4-10d6196187e3@5.223.67.129:8443?security=reality&encryption=none&pbk=kt-wshmPVd-J1dlU-tsXUoGag2-oFwYQ5UafScaAfzQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=apple.com#%F0%9F%87%B8%F0%9F%87%AC%20%20Singapore
 ss://bff7b258-8291-4298-bdee-991a92c1f33c@45.195.137.112:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=cf9d145ad8f1ea55#TR
