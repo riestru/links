@@ -6,6 +6,7 @@ hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@99.79.128.48:443/?insecure=1&sni=vpn-ca-002.faste
 hy2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010/?insecure=1&sni=nas.aizhzo.com&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9#%F0%9F%87%AD%F0%9F%87%B0HK_%40Koshitsu
 ss://40aba943-fa2a-4236-9034-e5a8911b8f78@103.94.185.145:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.apple.com&fp=chrome&pbk=wleI_i5zku-rrqzLdCZ3qe5C4HrE27IzCRmbXOmcMkw&sid=72f70ccc0c2568ef&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20%40Koshisu)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjI0Mg@115.161.136.145:10099#%F0%9F%87%B0%F0%9F%87%B7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGY2lMaFJrcEpRbEFnQi9YaU5ET1g2U2dHRG5uOSttVWdhbTROcEhDQ29JPQ@e3.cover20.ir:56985#%40TURKMENVPNLAR%20%F0%9F%87%A9%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@147.15.11.146:59319#%40TURKMENVPNLAR%20%F0%9F%87%A7%F0%9F%87%B7%20
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpabU0wWg@83.171.225.55:8388#%F0%9F%87%AB%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplQWZRYjRwOGV4SXhZbGJpTzA0UVBR@193.233.216.247:1080#%40TURKMENVPNLAR%20%F0%9F%87%B7%F0%9F%87%BA%20
