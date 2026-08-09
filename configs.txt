@@ -1,3 +1,5 @@
+hy2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010/?insecure=1&sni=127.0.0.1&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9#%F0%9F%87%AD%F0%9F%87%B0HK_%40Koshitsu
+ss://01a95af3-a2f6-453e-9f88-b2fc011627cc@47.82.120.47:43630/?type=tcp&encryption=none#%40Koshitsu
 ss://1bced29a-3051-42b8-b393-005135b97616@157.22.193.73:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=larkix.pulsio.cfd&fp=edge&pbk=OTuJX9KE2nHhg0mXT2uFMNIO7746G6c5rlT6OscQGk&sid=9698d67e63bc8ee0&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BAMELISAHAAPKOD%20DUZMANI%20OVREDYAN%20ARZAN%20BAHADAN%20PANELSZ%20FUL%20TIZLIKDE%20ISLEYA%20HALAL%20IMODN%20YAZN%20%2B62008376
 ss://1bced29a-3051-42b8-b393-005135b97616@157.22.193.73:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=larkix.pulsio.cfd&fp=firefox&pbk=OTuJX9KE2nHhg0mXT2uFMNIO7746G6c5rlT6OscQGk&sid=9698d67e63bc8ee0&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1MELISAHAAPKOD%20DUZMANI%20OVREDYAN%20ARZAN%20BAHADAN%20PANELSZ%20FUL%20TIZLIKDE%20ISLEYA%20HALAL%20IMODN%20YAZN%20%2B62008376
 ss://2022-blake3-aes-128-gcm:5jfrMoSGPSR1FqwTFtpc8g==@47.88.85.254:23226#%F0%9F%87%BA%F0%9F%87%B8@Koshitsu
@@ -12,6 +14,8 @@ ss://95e8532b-cc69-42d4-9553-e3c23292b15b@45.151.101.103:6443?encryption=none&se
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@163.176.143.206:59319#@Koshitsu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@163.176.15.184:59319#@Koshitsu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@163.176.159.203:59319#@Koshitsu
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@98.89.48.191:443#%40Koshitsu
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@27.255.82.134:2078#%F0%9F%87%B0%F0%9F%87%B7KR_%40Koshitsu
 ss://a1022d47-2417-4489-b7e0-b0febcc7a8ad@37.49.227.39:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=nlconverter.medusafree.com&fp=firefox&security=reality&pbk=fpxKKlBa95oPRkeNcon2fAmGjSQgjK23NFBWfNxtnw&sid=3da2799ba567c2#%40Koshitsu
 ss://a74099c6-2d46-42f7-b117-cc7ffaf09e63@139.28.98.87:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.nvidia.com&fp=firefox&security=reality&pbk=uMDJI4EuoKDaY6cCu26RACdCtBnN9DFq0JyhEZMdGhg&sid=#%40Koshitsu
 ss://ad4dd89a-2e4b-4f33-bb96-7e9c4eb85d0b@169.197.113.179:20190/?type=tcp&encryption=none#%40Koshitsu
