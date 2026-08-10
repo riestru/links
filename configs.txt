@@ -1,3 +1,5 @@
+happ://,
+happ://-y
 hy2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010/?insecure=1&sni=127.0.0.1&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9#%F0%9F%87%AD%F0%9F%87%B0HK_%40Koshitsu
 hysteria2://Apt1923N9x234gnNal5Nx3js@45.14.245.22:8443?security=tls&fm=%7B%7D&sni=grape-power-pl.ddnsguru.com#%F0%9F%87%AB%F0%9F%87%AEMELISAHAAPKOD%20DUZMANI%20OVREDYAN%20ARZAN%20BAHADAN%20PANELSZ%20FUL%20TIZLIKDE%20ISLEYA%20HALAL%20IMODN%20YAZN%20%2062008376
 ss://01a95af3-a2f6-453e-9f88-b2fc011627cc@47.82.120.47:43630/?type=tcp&encryption=none#%40Koshitsu
