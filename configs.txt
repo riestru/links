@@ -1,6 +1,7 @@
 hy2://SYYq3OEWx05YkV6BhtSIUXkM@38.77.133.69:443/?insecure=1&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20%40Koshitsu-Hysteria2
 ss://183013a5-1c01-4e36-ae9e-59a15d1bb0b5@68.64.181.175:50437/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.ebay.com&fp=chrome&security=reality&pbk=PlDDOZUSEmHeKG43OjxAxUwR_LJCI5ojL1OWHkJRlm0&sid=#%F0%9F%87%AD%F0%9F%87%B0%20%40Koshitsu
 ss://92d492db-a82d-49fe-ada0-e333bb595e8c@38.77.133.69:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=QTxJGMBN82RWORpkXYKaKsWlIJBJzyAnr85VAusxY&sid=9757cbb7e38e5eab&packetEncoding=xudp#%F0%9F%87%BA%F0%9F%87%B8%20%40Koshitsu
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBRFExN0U3b3ZEbk1LZVVYYm1QRDZB@201.24.62.211:650#%40TURKMENVPNLAR%20
 ss://fb67fd37-8d41-43a9-a093-c0b807fc5299@pr-media.pepro.site:14443/?type=ws&flow=&path=%2Fws&security=tls&sni=pr-media.pepro.site&fp=qq#NL-Amsterdam%0A%40Koshitsu
 vless://183013a5-1c01-4e36-ae9e-59a15d1bb0b5@68.64.181.175:50437/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.ebay.com&fp=chrome&security=reality&pbk=PlDDOZUSEmHeKG43OjxAxUwR_LJCI5ojL1OWHkJRlm0&sid=#%F0%9F%87%AD%F0%9F%87%B0%20%40Koshitsu
 vless://92d492db-a82d-49fe-ada0-e333bb595e8c@38.77.133.69:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=QTxJGMBN82RWORpkXYKaKsWlIJBJzyAnr85VAusxY&sid=9757cbb7e38e5eab&packetEncoding=xudp#%F0%9F%87%BA%F0%9F%87%B8%20%40Koshitsu
