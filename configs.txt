@@ -61,7 +61,16 @@ trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@61.216.76.139:3462/?type=tcp&secur
 trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@60.250.152.208:3462/?type=tcp&security=tls&sni=45.32.28.232#TW%20%F0%9F%87%B9%F0%9F%87%BC
 trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@20.255.74.102:443/?type=tcp&security=tls&sni=jp.iamnotagoodman.com&allowInsecure=1&fp=chrome#HK%20%F0%9F%87%AD%F0%9F%87%B0
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@60.250.152.208:8443/?type=tcp&security=tls&sni=official.taipeicitygovernment.chernovtsy.ua&allowInsecure=1#TW%20%F0%9F%87%B9%F0%9F%87%BC
+trojan://AG4yPUSazj57DBFnKG@193.8.124.68:443/?type=tcp&security=tls&allowInsecure=1#DE%20%F0%9F%87%A9%F0%9F%87%AA
+trojan://ASoZeIVwzX4w4wxwig@185.49.34.71:443/?type=tcp&security=tls&allowInsecure=1#GB%20%F0%9F%87%AC%F0%9F%87%A7
+trojan://ASoZeIVwzX4w4wxwig@193.8.169.74:443/?type=tcp&security=tls&allowInsecure=1#DE%20%F0%9F%87%A9%F0%9F%87%AA
+trojan://VuyKYqyDTU1GFaxF3o@194.124.216.55:443/?type=tcp&security=tls&sni=nl-4.tr202504.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#NL%20%F0%9F%87%B3%F0%9F%87%B1
 trojan://aef2ca33-b162-409f-8f16-4c736c338412@20.205.37.136:443/?type=tcp&security=tls&allowInsecure=1#HK%20%F0%9F%87%AD%F0%9F%87%B0
+trojan://c95357eb-2869-4511-8940-f0dc5e1ec9b1@103.72.96.55:443/?type=tcp&security=tls&sni=hanoiidc2.5gsieutocdo.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#VN%20%F0%9F%87%BB%F0%9F%87%B3
+trojan://ceaea123-1b4b-469b-8358-bcd5f5529305@18.139.15.8:443/?type=tcp&security=tls&sni=uk.liangyuandian.top&allowInsecure=1#SG%20%F0%9F%87%B8%F0%9F%87%AC
+trojan://d76294c5-a31f-408d-ba0b-89880107cab5@5.75.152.12:443/?type=tcp&security=tls&allowInsecure=1#DE%20%F0%9F%87%A9%F0%9F%87%AA
+trojan://diCyRX1d@193.151.134.182:443/?type=tcp&security=xtls#IR%20%F0%9F%87%AE%F0%9F%87%B7
+trojan://uThbm8eGmXZ7GKqnWy@194.124.216.109:443/?type=tcp&security=tls&allowInsecure=1#NL%20%F0%9F%87%B3%F0%9F%87%B1
 vless://0d4cb711-c030-4f13-adf5-6a72dab4121c@47.80.62.71:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AT4sr3XkuNa7QewDoScx7NnPTCa-Z6o_7ccPgivVDSQ&security=reality&sid=0b674631d5fc6b93&sni=www.nvidia.com&type=tcp#@Koshitsu%20%F0%9F%87%B0%F0%9F%87%B7%20%2004
 vless://15a1c6f2-8795-477c-b996-a1dd4f753aeb@151.101.109.114:443?encryption=none&security=tls&sni=accaunt.fastly.com&alpn=h3&fp=chrome&type=xhttp&mode=packet-up&host=lunex.store&path=%2FLunex#MELISAHAAPKOD%20DUZMANI%20OVREDYAN%20ARZAN%20BAHADAN%20PANELSZ%20FUL%20TIZLIKDE%20ISLEYA%20HALAL%20IMODN%20YAZN%20%2B62008376%3FserverDescription%3D8J%2BboSBHaXpsaW4gd2UgeWd0eWJhcmx5%0A
 vless://15a1c6f2-8795-477c-b996-a1dd4f753aeb@8.6.112.0:443?encryption=none&security=tls&sni=sweden.lunex-vpn.xyz&alpn=h3%2C%20h2%2C%20http%2F1.1&fp=chrome&type=ws&host=sweden.lunex-vpn.xyz&path=%2FLunex#MELISAHAAPKOD%20DUZMANI%20OVREDYAN%20ARZAN%20BAHADAN%20PANELSZ%20FUL%20TIZLIKDE%20ISLEYA%20HALAL%20IMODN%20YAZN%20%2B62008376
