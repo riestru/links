@@ -1,7 +1,11 @@
 hy2://CyG0RFxMjzs41uQD4OLuHQ%3D%3D@147.15.108.14:443/?mport=20000-30000&insecure=1&sni=rmgyvpn.rest&obfs=salamander&obfs-password=CyG0RFxMjzs41uQD4OLuHQ%3D%3D#%F0%9F%87%A7%F0%9F%87%B7
+ss://2022-blake3-aes-256-gcm:Q2YsIzc5YkchSFjsqUZWrQAFtsSpqf7XxYxkG4+Jbsk=%3AzT1SecPttPY%2FXPW6NwjK5Wql+%2F6zbcGSDJK21Jk8uLo=@216.9.225.189:443#%F0%9F%87%BA%F0%9F%87%B8%20%7C@Koshitsu
 ss://50c7eb08-96d2-47ef-92da-014a24b3350f@193.223.107.102:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.vk.com&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#%40VpnxTkm
 ss://7c89be79-2716-474d-80b0-9126fdb1ff9c@146.75.35.9:443?encryption=none&security=tls&sni=accounts.fastly.com&alpn=h3&fp=chrome&type=xhttp&mode=auto&host=oh1.global.ssl.fastly.net&path=%2F#%40VpnxTkm
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM@54.151.162.109:8443#%40Koshitsu
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@218.237.185.234:4652#%F0%9F%87%B0%F0%9F%87%B7
+ss://YWVzLTI1Ni1nY206QmVhVWY5YzBBRVdINDBQdQ@154.36.158.197:8388#%40Koshitsu
+ss://a346c521-7a7f-452b-9356-a4893feb5982@200.165.231.138:8444/?type=grpc&encryption=none&flow=&serviceName=GunService&sni=github.com&fp=firefox&security=reality&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&sid=457fab2ac885dbe0#%F0%9F%87%B3%F0%9F%87%B1%20%40Koshitsu
 ss://a346c521-7a7f-452b-9356-a4893feb5982@200.165.231.138:8444?mode=gun&security=reality&encryption=none&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&fp=firefox&type=grpc&serviceName=GunService&sni=github.com&sid=457fab2ac885dbe0#%F0%9F%87%B3%F0%9F%87%B1%40atashvip
 ss://b73243f8-0108-4077-b7be-92b850a3633c@151.101.173.183:443?encryption=none&security=tls&sni=accounts.fastly.com&alpn=h3&fp=chrome&type=xhttp&mode=packet-up&host=lnex.com&path=%2FLunex#🇳🇱%40VpnxTkm22
 ss://chacha20-ietf-poly1305:7HU4PG0uRiK-APQzeniOOuAhB4jcIDcA@89.232.184.184:140#🇷🇺%40VpnxTkm33
