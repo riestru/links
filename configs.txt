@@ -16,6 +16,7 @@ ss://9c794bb7-54fe-4acd-844a-a26209af36c3@95.182.120.128:443?flow=xtls-rprx-visi
 ss://9c794bb7-54fe-4acd-844a-a26209af36c3@95.182.120.128:443?security=reality&encryption=none&pbk=7MRwvMvlDcjZqfdbBmePpZI5WDEYgya1y_pOp7B9CDc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api.stride.surf&sid=d0dc65ab94f5e69b#%40Koshitsu
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206UTJZc0l6YzVZa2NoU0Zqc3FVWldyUUFGdHNTcHFmN1h4WXhrRzQrSmJzaz06elQxU2VjUHR0UFkvWFBXNk53aks1V3FsKy82emJjR1NESksyMUprOHVMbz0@216.9.225.189:443#%F0%9F%87%BA%F0%9F%87%B8%20%7C%40Koshitsu
 ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw@50.7.41.118:17001#%F0%9F%87%B3%F0%9F%87%B1
+ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw@50.7.41.118:17001#VIP%20KOD%20%F0%9F%98%88%20AMINOFF%20TM%20
 ss://aes-256-gcm:I6o9NnialYLMEjVt28RF4dpjmr9wMvNL@50.7.41.118:17001#🇩🇪%40VpnxTkm6
 ss://aes-256-gcm:I6o9NnialYLMEjVt28RF4dpjmr9wMvNL@50.7.41.118:17001#🇳🇱%40VpnxTkm2
 ss://aes-256-gcm:I6o9NnialYLMEjVt28RF4dpjmr9wMvNL@50.7.41.118:17001#🇷🇺%40VpnxTkm11
