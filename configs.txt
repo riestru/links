@@ -26,6 +26,7 @@ ss://54d1afe5-f5aa-47e6-a02f-6c41a6f886b3@193.160.140.152:443/?type=tcp&encrypti
 ss://54d1afe5-f5aa-47e6-a02f-6c41a6f886b3@193.160.140.154:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=gb.ozon.ru&fp=edge&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%20%40Koshitsu
 ss://54d1afe5-f5aa-47e6-a02f-6c41a6f886b3@193.160.141.22:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=abuse.ozon.ru&fp=edge&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%40Koshitsu
 ss://54d1afe5-f5aa-47e6-a02f-6c41a6f886b3@193.160.141.50:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ozon.ru&fp=firefox&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%20%40Koshitsu
+ss://54d1afe5-f5aa-47e6-a02f-6c41a6f886b3@193.160.141.57:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ozon.ru&fp=firefox&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%40Koshitsu%20%28127%29
 ss://5504eaa8-1395-402f-8e0e-75ecd762e627@us16-4.998998.best:443?encryption=auto&host=server1.9966338.xyz&path=%2Fefrsdioy98wert&security=tls&sni=server1.9966338.xyz&type=ws#@Koshitsu
 ss://846cedee-2a52-0001-a0b9-11850ead6a8b@79.98.37.106:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ee-central.v8x2b.lol&fp=firefox&security=reality&pbk=USSepsAbvP9LpByHLV2xD2H8dq8GAJ6G0fINEqD4PAw&sid=#%F0%9F%8C%8D%2002%20%40Koshitsu
 ss://846cedee-2a52-0001-a0b9-11850ead6a8b@79.98.37.106:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ee-central.v8x2b.lol&fp=chrome&pbk=USSepsAbvP9LpByHLV2xD2H8dq8GAJ6G0fINEqD4PAw&type=tcp&headerType=none#🇩🇪%40VpnxTkm4
@@ -52,6 +53,7 @@ ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw@50.7.41.118:170
 ss://a0431667-fe5b-4a55-b466-49bb04f74120@www.canva.com:443?encryption=none&security=tls&sni=kanapucin.tolkun-tv.ru&alpn=h3&fp=chrome&type=xhttp&mode=packet-up&host=kanapucin.tolkun-tv.ru&path=%2F#🇳🇱%40VpnxTkm4
 ss://a0431667-fe5b-4a55-b466-49bb04f74120@www.canva.com:443?encryption=none&security=tls&sni=kanapucin.tolkun-tv.ru&alpn=h3&fp=chrome&type=xhttp&mode=packet-up&host=kanapucin.tolkun-tv.ru&path=%2F#🇷🇺%40VpnxTkm
 ss://a0431667-fe5b-4a55-b466-49bb04f74120@www.canva.com:443?encryption=none&security=tls&sni=kanapucin.tolkun-tv.ru&alpn=h3&fp=chrome&type=xhttp&mode=packet-up&host=kanapucin.tolkun-tv.ru&path=%2F#🇹🇷%40VpnxTkm5
+ss://a30fbaa2-ec9e-47c7-b075-4d82e10794c0@80.243.228.98:2085/?type=grpc&encryption=none&serviceName=vless#%40Koshitsu
 ss://aes-256-gcm:I6o9NnialYLMEjVt28RF4dpjmr9wMvNL@50.7.41.118:17001#🇩🇪%40VpnxTkm6
 ss://aes-256-gcm:I6o9NnialYLMEjVt28RF4dpjmr9wMvNL@50.7.41.118:17001#🇳🇱%40VpnxTkm2
 ss://aes-256-gcm:I6o9NnialYLMEjVt28RF4dpjmr9wMvNL@50.7.41.118:17001#🇷🇺%40VpnxTkm11
@@ -67,13 +69,16 @@ ss://chacha20-ietf-poly1305:yzO8N8XHm6ETrLtvasYI8Q@217.195.200.25:2083#🇷🇺%
 ss://chacha20-ietf-poly1305:yzO8N8XHm6ETrLtvasYI8Q@51.195.233.74:2083#🇩🇪%40VpnxTkm3
 ss://chacha20-ietf-poly1305:yzO8N8XHm6ETrLtvasYI8Q@51.83.249.239:2083#🇩🇪%40VpnxTkm4
 ss://chacha20-ietf-poly1305:yzO8N8XHm6ETrLtvasYI8Q@51.83.249.239:2083#🇷🇺%40VpnxTkm10
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@128.1.186.71:8080#%F0%9F%87%B8%F0%9F%87%ACSG_%40Koshitsu
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@128.1.186.75:8080#%F0%9F%87%B8%F0%9F%87%ACSG_%40Koshitsu
 ss://d5dc8280-1feb-4328-b289-5bd6d0487bff@151.101.3.6:443?encryption=none&security=tls&sni=apps.apple.com&alpn=h3&fp=chrome&type=xhttp&mode=packet-up&host=cloudrix.global.ssl.fastly.net&path=%2Ffastly#%F0%9F%87%A9%F0%9F%87%AA%40VpnxTkm1
 ss://d5dc8280-1feb-4328-b289-5bd6d0487bff@151.101.3.6:443?encryption=none&security=tls&sni=apps.apple.com&alpn=h3&fp=chrome&type=xhttp&mode=packet-up&host=cloudrix.global.ssl.fastly.net&path=%2Ffastly#🇩🇪%40VpnxTkm2
 ss://e0216964-ffa1-4d39-82c4-0e40879a470d@151.242.144.212:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=khv.nullo.pro&fp=firefox&pbk=9p1PrKAsgtg31YUPPZLlsNmNd48FjHdML8x9SDeA8&sid=296ba5bd68d56a8d&type=tcp&headerType=none#%40VpnxTkm
 ss://eeb96fef-4476-4ab0-915e-32e8f014c3b2@ns.90909.club:2096?encryption=none&security=reality&sni=id.vk.com&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&mode=gun&authority=&serviceName=vless-grpc-reality#%40VpnxTkm
 ss://eyJhZGQiOiI0My4xNTUuMTk5LjIyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjM3MjJhZDE2LWYzZTEtNDQwNi1iMDRhLTkyOWI1MjlkOGUwZCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJAS29zaGl0c3UiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+ss://eyJhZGQiOiI0Ny4yNDIuODEuOTQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im9wZW5haS5jb20iLCJpZCI6ImU0N2I5Zjc3LTYwZTQtNDczOC04ZDUzLTc3MmI2MDAyZTE0NiIsIm5ldCI6InRjcCIsInBhdGgiOiIvUVFxdW4tNzM3ODA1NDQzIiwicG9ydCI6IjUyMDgwIiwicHMiOiJAS29zaGl0c3UiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 ss://f5f0babe-aea2-4f07-a1fc-3c9820253f49@hk1.frnhk.xyz:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.uni-frankfurt.de&fp=chrome&pbk=gXOQOlynAB6Znbp902LRyX7eYSxTWrj7D2nRCB1gNmE&sid=6b7a8c9d&type=tcp&headerType=none#🇳🇱%40VpnxTkm5
+trojan://238d59a3-7e00-4a74-8138-7e3ed1b7c378@www.visa.com.sg:2083/?type=ws&host=au2.yang-1989.xyz&path=%2F0ubq&security=tls&sni=au2.yang-1989.xyz&allowInsecure=1#%40Koshitsu
 vless://0bf8538b-6299-46b0-9775-8b00939dccb5@178.17.52.234:443?encryption=none&security=reality&sni=static.blog-forme.ru&fp=chrome&pbk=CgbJG-9Wv2NW-cuS1ZIaCAenRUZbxGFt5EjLkFCUcWs&sid=627da539c308202e&type=tcp&headerType=none#🇩🇪%40VpnxTkm
 vless://0bf8538b-6299-46b0-9775-8b00939dccb5@178.17.52.234:443?encryption=none&security=reality&sni=static.blog-forme.ru&fp=chrome&pbk=CgbJG-9Wv2NW-cuS1ZIaCAenRUZbxGFt5EjLkFCUcWs&sid=627da539c308202e&type=tcp&headerType=none#🇳🇱%40VpnxTkm4
 vless://0bf8538b-6299-46b0-9775-8b00939dccb5@178.17.52.234:443?encryption=none&security=reality&sni=static.blog-forme.ru&fp=firefox&pbk=CgbJG-9Wv2NW-cuS1ZIaCAenRUZbxGFt5EjLkFCUcWs&sid=627da539c308202e&type=tcp&headerType=none#🇩🇪%40VpnxTkm6
@@ -131,3 +136,4 @@ vless://eeb96fef-4476-4ab0-915e-32e8f014c3b2@ns.90909.club:2096?encryption=none&
 vless://f5f0babe-aea2-4f07-a1fc-3c9820253f49@hk1.frnhk.xyz:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.uni-frankfurt.de&fp=chrome&pbk=gXOQOlynAB6Znbp902LRyX7eYSxTWrj7D2nRCB1gNmE&sid=6b7a8c9d&type=tcp&headerType=none#🇳🇱%40VpnxTkm5
 vmess://5504eaa8-1395-402f-8e0e-75ecd762e627@us16-4.998998.best:443?encryption=auto&host=server1.9966338.xyz&path=%2Fefrsdioy98wert&security=tls&sni=server1.9966338.xyz&type=ws#@Koshitsu
 vmess://eyJhZGQiOiI0My4xNTUuMTk5LjIyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjM3MjJhZDE2LWYzZTEtNDQwNi1iMDRhLTkyOWI1MjlkOGUwZCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJAS29zaGl0c3UiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiI0Ny4yNDIuODEuOTQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im9wZW5haS5jb20iLCJpZCI6ImU0N2I5Zjc3LTYwZTQtNDczOC04ZDUzLTc3MmI2MDAyZTE0NiIsIm5ldCI6InRjcCIsInBhdGgiOiIvUVFxdW4tNzM3ODA1NDQzIiwicG9ydCI6IjUyMDgwIiwicHMiOiJAS29zaGl0c3UiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
