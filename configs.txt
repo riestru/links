@@ -78,6 +78,7 @@ ss://aes-256-gcm:cCMJgJTA3BA489YUYrFq7XHXSiSpWlLa@46.17.46.27:18443#1074%20%7C%2
 ss://aes-256-gcm:cCMJgJTA3BA489YUYrFq7XHXSiSpWlLa@46.17.46.27:18443#Nova_likegysganman
 ss://aes-256-gcm:cCMJgJTA3BA489YUYrFq7XHXSiSpWlLa@46.17.46.27:18443#🇷🇺%40VpnxTkm
 ss://aes-256-gcm:cCMJgJTA3BA489YUYrFq7XHXSiSpWlLa@46.17.46.27:18443#🇷🇺Nova
+ss://b229d38c-35ec-4a0b-9c86-8fceba243d6c@95.129.234.108:8443?mode=auto&path=%2Fccxf5snr06b8xxb6&security=tls&alpn=h2&encryption=none&host=fafeqdhlett2p5la6d.cdn.cachefleet.com&fp=firefox&type=xhttp&sni=hazel-beacon.cdn.cachefleet.com#%40Koshitsu
 ss://b4670cae-71d3-4fcc-8888-1482292fc3d7@212.69.135.17:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=uk-room05.filesnap.tech&fp=firefox&pbk=FdZlh9FC4ay9OGnKG6K_iNqhz1I3tWDfNZhxrDYuQl8&sid=7da3ba09a037e956&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%A6Canada
 ss://b4670cae-71d3-4fcc-8888-1482292fc3d7@212.69.135.17:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=uk-room05.filesnap.tech&fp=firefox&pbk=FdZlh9FC4ay9OGnKG6KiNqhz1I3tWDfNZhxrDYuQl8&sid=7da3ba09a037e956&type=tcp&headerType=none#🇩🇪%40VpnxTkm
 ss://b4670cae-71d3-4fcc-8888-1482292fc3d7@212.69.135.17:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=uk-room05.filesnap.tech&fp=firefox&pbk=FdZlh9FC4ay9OGnKG6KiNqhz1I3tWDfNZhxrDYuQl8&sid=7da3ba09a037e956&type=tcp&headerType=none#🇳🇱Nova
