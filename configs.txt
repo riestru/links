@@ -71,6 +71,7 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.212.221.248:443#%F0%9F%87%BA%F0%9F%87%B8
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.234.196.186:443#%F0%9F%87%BA%F0%9F%87%B8%20%40Koshitsu
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.90.139.219:443#%40Koshitsu%20%F0%9F%87%BA%F0%9F%87%B8
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.90.139.219:443#%F0%9F%87%BA%F0%9F%87%B8%40Koshitsu
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.196.238.241:443#%40Koshitsu%20%F0%9F%87%BA%F0%9F%87%B8
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@99.79.32.21:443#%40Koshitsu
 ss://a3940ddb-ba50-5109-a0fd-4a06990f1ded@179.253.248.21:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=learn.microsoft.com&fp=chrome&security=reality&pbk=ABZFDD3Ne57Q0i7skCnEpyUVTKTdMhm3aqJ9mwLZ7lw&sid=62169cb853fb7503#%40Koshitsu
 ss://a3940ddb-ba50-5109-a0fd-4a06990f1ded@179.255.124.23:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.logitech.com&fp=chrome&security=reality&pbk=ZxdYEReKF-MvIMpZWVMHf7ixDZmzIg-6Xt7IzstgwE&sid=16e300b06a6a7413#%40Koshitsu
