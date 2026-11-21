@@ -1,6 +1,9 @@
+hy2://HPzKAhFXV5XgEmRSTM33DRuTHeFcB5ON@89.117.172.45:443/?sni=eth.todsm.com&obfs=salamander&obfs-password=0dRexOATy4t9J1ckKOLpPy9HrNoU5FmN#%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90%20%20%40Koshitsu
 hy2://e45c1654-9184-40c7-b68b-2929ce2a0a89@86.107.179.245:443/?sni=cruises-cdn.travel-blogmir.blog#%F0%9F%87%B7%F0%9F%87%B4%20%D0%A0%D1%83%D0%BC%D1%8B%D0%BD%D0%B8%D1%8F%202%20Cloudflare%2C%20Inc.
 hy2://hnScnJDA68IrfmoZIgpl0TPy@56.10.118.185:30000/?insecure=1&sni=sg-transit-2.nebulacloud.win#%F0%9F%87%B9%F0%9F%87%AD%20%E6%B3%B0%E5%9B%BD%2003%20%40clashv8
+hy2://linlin-2026@13.237.192.121:36712/?insecure=1&sni=13.237.192.121#hy2%20%40Koshitsu
 hy2://yO8pug5XmwkBXBAjleYIaVt@192.255.152.147:443/?insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20US%20-%40Koshitsu
+hy2://z%2FyIxn3sBV03PkAxbnX8rg%3D%3D@137.131.177.121:443/?mport=20000-30000&sni=hy2-br.whuiy.xyz&obfs=salamander&obfs-password=z%2FyIxn3sBV03PkAxbnX8rg%3D%3D#%20%40Koshitsu
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@48.102.214.171:4444?security=tls&fm=%7B%7D&sni=fl4.edgeport.cloud#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%2010%20SERV.HOST%20GROUP%20LTD%20t.me%2Frjsxrd
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@48.102.214.171:4444?security=tls&fm=%7B%7D&sni=fl4.edgeport.cloud#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%204%20SERV.HOST%20GROUP%20LTD
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@48.102.214.171:4444?security=tls&fm=%7B%7D&sni=fl4.edgeport.cloud#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%204%20SERV.HOST%20GROUP%20LTD%20t.me%2Frjsxrd
@@ -67,6 +70,7 @@ ss://4201786b-d99b-4147-a5f0-20d47acddb81@196.196.148.76:443/?type=tcp&encryptio
 ss://44ddb84a-f152-47ef-a970-fd63f2df9b30@93.88.206.70:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=pulse.sevka.xyz&fp=edge#%E1%B4%9B%E1%B4%87%CA%9F%E1%B4%87%C9%A2%CA%80%E1%B4%80%E1%B4%8D%20%C9%AA%E1%B4%85%20%3D%20%40Koshitsu
 ss://44ddb84a-f152-47ef-a970-fd63f2df9b30@93.88.206.70:443?mode=auto&path=%2F350a12c4b006&security=tls&encryption=none&fp=firefox&type=xhttp&sni=edge.sevka.xyz#%E1%B4%9B%E1%B4%87%CA%9F%E1%B4%87%C9%A2%CA%80%E1%B4%80%E1%B4%8D%20%C9%AA%E1%B4%85%20%3D%20%40Koshitsu
 ss://44ddb84a-f152-47ef-a970-fd63f2df9b30@93.88.206.70:443?security=tls&encryption=none&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=pulse.sevka.xyz#%E1%B4%9B%E1%B4%87%CA%9F%E1%B4%87%C9%A2%CA%80%E1%B4%80%E1%B4%8D%20%C9%AA%E1%B4%85%20%3D%20%40Koshitsu
+ss://4539ac62-e083-4003-9a3c-4ece2639a0ac@38.55.99.155:39585/?type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&fp=chrome&security=reality&pbk=01Y4xTUgcsmFIff0Rio4weNbdo6-vAvWwK3Q28uA0&sid=b32f2490045d5296#%E1%B4%9B%E1%B4%87%CA%9F%E1%B4%87%C9%A2%CA%80%E1%B4%80%E1%B4%8D%20%C9%AA%E1%B4%85%20%3D%20%40Koshitsu
 ss://490dc3b4-8d1d-49fd-840e-bd5277b41557@189.30.65.203:2083/?type=grpc&encryption=none&flow=&serviceName=service-41f6a2a01377#%F0%9F%87%A9%F0%9F%87%AA%20%40Koshitsu%28Germany%29%20
 ss://49db4ce7-ad48-41a3-9b6f-4c6dabd94504@23.237.104.242:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ford.copperfen.top&fp=firefox&security=reality&pbk=jpI7oO6m15TW28mm2oAVfs2ftOYSaqFCYVrJ8pzKn8&sid=409220db#%40Koshitsu
 ss://49db4ce7-ad48-41a3-9b6f-4c6dabd94504@50.7.21.179:443/?type=grpc&encryption=none&serviceName=grpc&sni=burn.heathcombe.top&fp=firefox&security=reality&pbk=ibyiKQwylyprC-QBaFQFXYDloYLr8kTt3jefWRVdJiU&sid=714cb0f66004a788#%40Koshitsu
